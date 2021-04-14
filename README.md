@@ -8,3 +8,5 @@
  
 #### 4. open react local server.
          
+### See The project with live server
+[Click here to go live server](https://stackblitz.com/edit/react-pie-chart-covid19-final)
