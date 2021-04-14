@@ -1,0 +1,1 @@
+# react-global-covid19-scenario-visualization
