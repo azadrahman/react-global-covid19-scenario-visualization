@@ -1,9 +1,9 @@
 # react-global-covid19-scenario-visualization
 
-## Instruction to run your mechine
+## Instruction to run in your mechine
 #### 1. Download the project clone
-#### 2. in your downloaded project folder open the terminal
-#### 3. install package dependencies
+#### 2. go to downloaded project folder and open the terminal
+#### 3. To install package dependencies type 'npm install' in the terminal
      ``` npm install ```
  
 #### 4. open react local server.
